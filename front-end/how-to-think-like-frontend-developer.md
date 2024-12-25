@@ -29,3 +29,13 @@ LAMP (Linux Apache MySQL PHP)
                                                           STAR (Design Systems Typescript Apollo GraphQL React)
 I know Git, I write tests, I design, I know about build processes, I care about performance, I can make sites
 accessible, I can set up our deployment pipeline and every other thing frontend developers already do.
+
+Frontend developer keywords
+1.UX
+2.Performance
+3.Accessibility
+4.Execution of the design, Animation and interaction.
+5. Cloud functions (functions as a service) / Serverless
+6. Webhooks to send notifications or messages.
+
+GitHubPage+Netlify+AWS Cloud functions+Codepen projects
